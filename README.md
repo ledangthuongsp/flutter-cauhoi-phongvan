@@ -26,9 +26,9 @@
 
 - Flutter sử dụng Dart và biên dịch xuống mã máy, cung cấp các widget để xây dựng UI, và sử dụng Skia để render giao diện.
 
-### 4. Explain the Widget tree and how it works in Flutter?
+### 4. Hãy giải thích cấu trúc (Widget Tree - tham khảo thêm trên các nguồn khác) của Flutter ?
 
-- Widget tree là cấu trúc cây của các widget trong Flutter. Mỗi widget là một nút trong cây, và cây này được sử dụng để xác định giao diện người dùng của ứng dụng.
+- **Widget tree** là cấu trúc cây của các widget trong Flutter. Mỗi widget là một nút trong cây, cây widget bao gồm các widget lồng vào nhau, tạo thành một hệ thống phân cấp. Các widget đại diện cho các thành phần giao diện người dùng của một ứng dụng và cấu trúc cây xác định cách chúng được sắp xếp và hiển thị. Flutter sử dụng cách tiếp cận khai báo, trong đó giao diện người dùng được xây dựng lại dựa trên những thay đổi đối với cây tiện ích con.
 
 ### 5. Bạn biết gì về Hot Reload và Hot Restart trong Flutter?
 
