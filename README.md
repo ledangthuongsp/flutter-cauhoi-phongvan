@@ -16,6 +16,11 @@
 ### 2. Flutter là gì?
 
 - Flutter là một SDK của Google để phát triển ứng dụng di động, web và desktop từ một mã nguồn duy nhất.
+- Thành phần chính của Flutter bao gồm:
+  -- Nền tảng Dart: giúp lập trình viên viết code và lập trình bằng ngôn ngữ Dart
+  -- Flutter Engine
+  -- Thư viện Foundation
+  -- Các widget được thiết kế riêng
 
 ### 3. Flutter hoạt động như thế nào?
 
